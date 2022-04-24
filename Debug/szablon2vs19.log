@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\inf_studia\Sem1\game\template-project-2\main.cpp(300,20): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+D:\inf_studia\Sem1\game\template-project-2\main.cpp(305,24): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+D:\inf_studia\Sem1\game\template-project-2\main.cpp(317,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\inf_studia\Sem1\game\template-project-2\main.cpp(347,22): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+D:\inf_studia\Sem1\game\template-project-2\main.cpp(404,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\inf_studia\Sem1\game\template-project-2\main.cpp(407,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\inf_studia\Sem1\game\template-project-2\main.cpp(489,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  szablon2vs19.vcxproj -> D:\inf_studia\Sem1\game\template-project-2\Debug\szablon2vs19.exe
